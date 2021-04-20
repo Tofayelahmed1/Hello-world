@@ -1,6 +1,3 @@
-# Hello-world
-my second repository 
+# Hello-world 2.0
+ 
 
-public class FirstClass {
-	
-}
